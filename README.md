@@ -1,9 +1,5 @@
 # FUTURE_PE_01
 
-Here’s an **impact-driven** description (within 350 words) suitable for GitHub:  
-
----
-
 # 🚀 **AI-Generated Marketing Video – Internship Task**  
 
 ### **Overview**  
